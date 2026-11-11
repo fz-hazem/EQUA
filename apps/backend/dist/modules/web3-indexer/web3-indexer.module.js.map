@@ -1,0 +1,1 @@
+{"version":3,"file":"web3-indexer.module.js","sourceRoot":"","sources":["../../../src/modules/web3-indexer/web3-indexer.module.ts"],"names":[],"mappings":";;;;;;;;;AAAA,2CAAwC;AACxC,iEAA4D;AAC5D,gEAA4D;AAKrD,IAAM,iBAAiB,GAAvB,MAAM,iBAAiB;CAAG,CAAA;AAApB,8CAAiB;4BAAjB,iBAAiB;IAH7B,IAAA,eAAM,EAAC;QACN,SAAS,EAAE,CAAC,yCAAkB,EAAE,8BAAa,CAAC;KAC/C,CAAC;GACW,iBAAiB,CAAG"}
