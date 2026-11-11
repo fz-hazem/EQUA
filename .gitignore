@@ -1,1 +1,12 @@
-node_modules
+# Dépendances
+node_modules/
+
+# Dossiers de build et cache
+.next/
+dist/
+.turbo/
+*.log
+
+# Variables d'environnement
+.env
+.env.local
