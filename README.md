@@ -16,7 +16,7 @@ EQUA — Equitable, Quick & Universal Access
 **[📦 Dépôt GitHub](https://github.com/fz-hazem/EQUA)** · **[🚀 Quick Start](#-quick-start--installation-pas-à-pas)** · **[🗄️ Volet DQL](#️-volet-dql--data-query-language-sur-neon-postgresql-cloud)** · **[📋 Livrables](#-conformité-aux-consignes-de-rendu-livrables)**
  
 </div>
----
+
  
 ## 📑 Table des matières
  
