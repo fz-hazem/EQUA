@@ -480,4 +480,9 @@ psql "$DATABASE_URL" -f dql.sql
 | 11 | **Mise en valeur du DQL sur Neon (Sandbox BCT)** | ✅ | [Volet DQL](#️-volet-dql--data-query-language-sur-neon-postgresql-cloud) |
 | 12 | **README structuré et professionnel** | ✅ | Ce document |
  
- 
+## Déploiement en ligne
+
+- **Application Web (Frontend Next.js)** : https://equa-frontend1.onrender.com
+- **API REST (Backend NestJS)** : https://equa-5.onrender.com
+
+> *Note : Les services étant hébergés sur l'offre gratuite de Render, le premier chargement peut prendre environ 50 secondes pour sortir les serveurs de veille.* 
