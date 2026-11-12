@@ -480,19 +480,4 @@ psql "$DATABASE_URL" -f dql.sql
 | 11 | **Mise en valeur du DQL sur Neon (Sandbox BCT)** | ✅ | [Volet DQL](#️-volet-dql--data-query-language-sur-neon-postgresql-cloud) |
 | 12 | **README structuré et professionnel** | ✅ | Ce document |
  
----
- 
-## 👤 Auteur
- 
-**Hazem** — Projet académique **EQUA**
-🔗 GitHub : [@fz-hazem](https://github.com/fz-hazem) · Dépôt : [fz-hazem/EQUA](https://github.com/fz-hazem/EQUA)
- 
----
- 
-<div align="center">
-**⭐ Si ce projet vous a plu, n'hésitez pas à lui laisser une étoile sur GitHub ! ⭐**
- 
-*EQUA — Parce que l'accès à la finance doit être équitable, rapide et universel.*
- 
-</div>
  
